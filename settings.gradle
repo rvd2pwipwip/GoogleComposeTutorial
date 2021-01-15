@@ -1,0 +1,2 @@
+rootProject.name = "GoogleComposeTutorial"
+include ':app'
