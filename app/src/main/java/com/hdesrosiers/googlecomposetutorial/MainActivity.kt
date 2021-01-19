@@ -69,7 +69,7 @@ fun NewsStory() {
     }
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     NewsStory()
